@@ -4,6 +4,7 @@
 '''thiago alterou'''
 #comentario
 
+
 import re
 
 def separa_sentencas(texto):
