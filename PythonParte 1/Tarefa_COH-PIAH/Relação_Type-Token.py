@@ -1,6 +1,7 @@
 '''Ex: relação_type_token("o, gato, caçava, o, rato")'''
 '''Resultado: 0.8'''
 '''versão 01'''
+'''gabriel alterou'''
 
 import re
 
